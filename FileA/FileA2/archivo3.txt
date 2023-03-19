@@ -1,0 +1,3 @@
+Hola, soy el archivo 3
+Este es mi contenido, repito tengo el valor 3
+Hasta Luego
